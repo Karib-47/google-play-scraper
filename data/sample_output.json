@@ -1,0 +1,33 @@
+[
+  {
+    "title": "Coolmath Games Fun Mini Games",
+    "appId": "com.coolmath_games.coolmath",
+    "description": "Coolmath Games is a collection of fun, brain-training games for all ages.",
+    "score": 3.6,
+    "ratings": null,
+    "reviews": [
+      {
+        "userName": "Logan Landman",
+        "score": 5,
+        "text": "Legitametly great port for what it is.",
+        "date": "2024-06-01",
+        "version": "2.11.32",
+        "thumbsUp": 132
+      }
+    ],
+    "reviewsCount": 1,
+    "installs": "1,000,000+",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/ZzFGj_MgQ2_LoXc0XleZzTiKLTktYve5IxgLUcmLJIXdFBRRojMVTH052SNfkVI1dJA8"
+    ],
+    "video": null,
+    "developerEmail": "mobile@coolmath.com",
+    "developerWebsite": "https://www.coolmathgames.com",
+    "developerAddress": "Coolmath.com LLC, New York, NY, USA",
+    "genre": "Arcade",
+    "categories": [
+      "Arcade",
+      "Games"
+    ]
+  }
+]
