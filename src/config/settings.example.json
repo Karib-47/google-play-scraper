@@ -1,0 +1,12 @@
+{
+  "mode": "app_ids",
+  "input_app_ids_file": "data/sample_app_ids.txt",
+  "output_dir": "data",
+  "output_format": "json",
+  "language": "en_US",
+  "max_apps": 50,
+  "max_reviews_per_app": 50,
+  "base_url": "https://play.google.com/store/apps/details",
+  "reviews_url": "https://play.google.com/store/apps/details",
+  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+}
