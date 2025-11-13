@@ -1,0 +1,3 @@
+om.coolmath_games.coolmath
+com.whatsapp
+com.facebook.katana
